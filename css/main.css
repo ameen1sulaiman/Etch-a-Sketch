@@ -1,0 +1,26 @@
+h1, h2, h3 {
+  text-align: center;
+}
+
+#resize-button {
+  display: grid;
+  margin: 1em auto;
+  justify-content: center;
+}
+
+#container {
+  display: grid;
+  margin: 0 auto;
+  justify-content: center;
+  max-width: 1em;
+}
+
+.square {
+  background: #214252;
+  border: 1px solid;
+  padding: 1em 1em;
+}
+
+html {
+  background: rgb(255, 255, 255);
+}
